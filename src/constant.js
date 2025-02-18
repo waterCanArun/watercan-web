@@ -1,0 +1,2 @@
+export const YOUR_GOOGLE_MAPS_API_KEY ="AIzaSyDNtMhAj4UVyV4nfS9NV5JC9qBTcFYxgOc";
+export const WIFI = "52.66.246.44:9000";
